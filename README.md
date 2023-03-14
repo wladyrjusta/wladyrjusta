@@ -8,8 +8,8 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wladyrjusta&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wladyrjusta&layout=compact&theme=merko&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=wladyrjusta&theme=merko"/> </a>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wladyrjusta&theme=merko&line_height=40&hide=css"/> </a>
 
 <br>
 
