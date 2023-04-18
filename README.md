@@ -61,7 +61,15 @@
 <a href=""> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> </a>
 <br>
 <br>
-<h1> :globe_with_meridians: Social Networks </a>
+<h1> :goal_net: Other </h1>
+<br>
+<br>
+<a href=""> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/> </a>
+<a href=""> <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"/> </a>
+<a href=""> <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/> </a>
+<br>
+<br>
+<h1> :globe_with_meridians: Social Networks </h1>
 <br>
 <br>
 <a href="https://www.linkedin.com/in/wladyrjusta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
