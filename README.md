@@ -61,6 +61,13 @@
 <a href=""> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/> </a>
 <br>
 <br>
+<h1> :clock4: Version Control </h1> 
+<br>
+<br>
+<a href=""> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> </a>
+<a href=""> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> </a>
+<br>
+<br>
 <h1> :control_knobs: Operating System </h1>
 <br>
 <br>
