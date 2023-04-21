@@ -47,7 +47,14 @@
 <a href=""> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> </a>
 <br>
 <br>
-<h1> :cloud: Hosting/SaaS </h1> 
+<h1> :test_tube: Testing </h1> 
+<br>
+<br>
+<a href=""> <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/> </a>
+<a href=""> <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white"/> </a>
+<br>
+<br>
+<h1> :cloud: Hosting/SaaS </h1>
 <br>
 <br>
 <a href=""> <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/> </a>
