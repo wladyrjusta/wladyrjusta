@@ -7,7 +7,7 @@
 - 📫 You can reach me by the email address: wladyr.justa@gmail.com.
 <br>
 <br>
-<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=wladyrjusta&theme=merko"/> </a>
+<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=wladyrjusta&show_icons=true&theme=merko"/> </a>
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wladyrjusta&theme=merko&line_height=40&hide=css"/> </a>
 <br>
 <br>
