@@ -6,10 +6,9 @@
 - 🌱 I’m currently learning React.js/Hooks, Redux, React Testing Library.
 - 📫 You can reach me by the email address: wladyr.justa@gmail.com.
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <br>
-<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=wladyrjusta&show_icons=true&theme=dark"/> </a>
-<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladyrjusta&layout=compact&show_icons=true&theme=dark"/> </a>
+<a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=wladyrjusta&show_icons=true&theme=dark"/> </a>
+<a href="https://github.com/anuraghazra/convoychat"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladyrjusta&layout=compact&show_icons=true&theme=dark&langs_count=8"/> </a>
 <br>
 <br>
 <h1> :clipboard: Languages </h1>
