@@ -4,7 +4,7 @@
 
 - 🔭 Currently, I'm studying fullstack web development at trybe.
 - 🌱 I’m currently learning React.js/Hooks/ Redux/ React Testing Library/
-    Node.js/ Express.js/ Sequelize/ TypeScript/ Chai/ Sinon/ Python.
+    Node.js/ Express.js/ Sequelize/ TypeScript/ Chai/ Sinon/ Python/ POO/ SOLID.
 - 📫 You can reach me by the email address: wladyr.justa@gmail.com.
 <br>
 <br>
