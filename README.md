@@ -8,8 +8,8 @@
 - 📫 You can reach me by the email address: wladyr.justa@gmail.com.
 <br>
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=wladyrjusta&show_icons=true&theme=tokyonight"/> </a>
-<a href="https://github.com/anuraghazra/convoychat"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladyrjusta&layout=compact&show_icons=true&theme=tokyonight&langs_count=9"/> </a>
+<a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=wladyrjusta&show_icons=true&theme=dark"/> </a>
+<a href="https://github.com/anuraghazra/convoychat"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wladyrjusta&layout=compact&show_icons=true&theme=dark&langs_count=9"/> </a>
 <br>
 <br>
 <h1> :clipboard: Languages </h1>
